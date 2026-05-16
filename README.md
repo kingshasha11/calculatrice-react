@@ -43,7 +43,7 @@ Le développement de cette calculatrice s'est concentré sur deux défis majeurs
 1.  **Gestion des États (States)** : Séparation stricte entre la valeur affichée (`display`) et les valeurs numériques de calcul (`firstValue`, `secValue`) pour garantir la précision des résultats.
 2.  **Expérience Utilisateur (UX)** : Implémentation d'une fonction `backspace` robuste capable de naviguer en arrière dans l'historique de saisie tout en mettant à jour la logique mathématique sous-jacente.
 
-**Autheur**
+**Autheur : **
 Louis-David Mvemba
 
 Etudiant ingénieur en Data et IA
