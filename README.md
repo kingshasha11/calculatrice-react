@@ -45,4 +45,5 @@ Le développement de cette calculatrice s'est concentré sur deux défis majeurs
 
 **Autheur**
 Louis-David Mvemba
+
 Etudiant ingénieur en Data et IA
